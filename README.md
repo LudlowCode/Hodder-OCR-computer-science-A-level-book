@@ -41,7 +41,7 @@ It says 10-bit mantissa but there are only 9 bits. It doesn't matter to the demo
 1 + 1 has a sum of 0 and a carry of 1, so the final S should be 0 (not 1) in the half adder truth table. Thus, S can be provided by an XOR (not a NAND).
 (truth table near the top of the page, third column, and the following paragraph)
 ### 178
-The full adder uses OR not NOR for the two carries, so should not have the negation circle at the front.
+The full adder uses an OR gate (not NOR) for the two carries, so should not have the negation circle at the front of the logic gate symbol.
 (80% down the page circuit diagram)
 ### 180
 The blue block should be four in height to encompass more 1s. Two reasons, firstly a block in a K map should be as big as possible, and secondly they must be rectangles of size 2^n^.
