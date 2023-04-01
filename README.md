@@ -44,7 +44,7 @@ It says 10-bit mantissa but there are only 9 bits. It doesn't matter to the demo
 The full adder uses an OR gate (not NOR) for the two carries, so should not have the negation circle at the front of the logic gate symbol.
 (80% down the page circuit diagram)
 ### 180
-The blue block should be four in height to encompass more 1s. Two reasons, firstly a block in a K map should be as big as possible, and secondly they must be rectangles of size 2<super>n</super>.
+The blue block should be four in height to encompass more 1s. Two reasons, firstly a block in a K map should be as big as possible, and secondly they must be rectangles of size 2<sup>n</sup>.
 Also, the rogue 1 that is not in either block of the second example is suppposed to be 0.
 (the two example K-maps in the top half of the page)
 ## Solutions to the questions
