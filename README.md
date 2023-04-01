@@ -11,7 +11,7 @@ Raising of issues, and submitting contributions is welcome, especially from A-le
 *There are two versions which look almost the same but one has far fewer errors. Let's call them Bad (more errors) and Good (fewer errors)*. To find out which one you have, look on the page before the contents page and the address of Hodder on the left. Bad = Euston Road and Good = Embankment. Now you know your version, you can look in the next section to find the errors.
 
 ## Errors
-Firstly, a list of where the errors are. Maybe you could mark the pages as unreliable by highlighting the page numbers. If you enjoy a challenge, it might be fun to see if you can work out the errors yourself as you go, or if not, use the next section. This doesn't claim to be all the errors in the book; please raise an issue if you find a new error that needs to be added, and even better you could add it to this list and make a pull request to become a contributor to this open-source project.
+Firstly, a list of where the errors are. Maybe you could mark the pages in your copy of the book as unreliable by highlighting the page numbers. If you enjoy a challenge, it might be fun to see if you can work out the errors yourself as you go, or if not, use the next section. This doesn't claim to be all the errors in the book; please raise an issue if you find a new error that needs to be added, and even better you could add it to this list and make a pull request to become a contributor to this open-source project.
 ### 'Bad' book errors
 51, 59, 147, 148, 149, 150, 177, 178, 180.
 ### 'Good' book errors
