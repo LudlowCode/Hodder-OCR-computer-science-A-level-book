@@ -20,7 +20,7 @@ Firstly, a list of where the errors are. Maybe you could mark the pages in your 
 This section has a description of the necessary correction for each page. 
 (followed by location of error in brackets)
 ### 51
-Binary search on 100 items would be 10 checks, as log<sub>2</sub>1000 is about 10 (not 8). 
+Binary search on 1000 items would be 10 checks, as log<sub>2</sub>1000 is about 10 (not 8). 
 (75% of the way down the page)
 ### 59
 Swap D and B (not C and B).
