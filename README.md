@@ -29,8 +29,8 @@ Swap D and B (not C and B).
 2 - 1 is 1 (not 0)
 (the bit in the 2s column of the example at the top-left)
 ### 148
-0 + 0 = 0 (not 1) *error not found in impression 5 versions* 
-(in key points at the top of the page)
+0 + 0 = 0 (not 1) 
+(in key points at the top of the page) *NB: error not found in impression 5 versions* 
 ### 149
 The mantissa is inconsistent in the final example. It should always be 111110.
 (first and last lines of the example at the bottom)
