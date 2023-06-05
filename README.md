@@ -50,4 +50,4 @@ Also, the rogue 1 that is not in either block of the second example is suppposed
 ## Solutions to the questions
 They are attached as PDF files in this repo.
 ## Pictorial corrections
-These might be added at some stage.
+These might be added at some stage. The closest typeface found so far Bliss, but the closest one with a public licence is Cabin so that is preferred in any amendments.
